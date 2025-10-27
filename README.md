@@ -4,110 +4,29 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-###
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sergey
+===============================================================================================================================
 
-<h1 align="center">Hello!👋 My name is Sergey!</h1>
+Data Scientist and Pilot
+------------------------
 
-###
+I turn complex data into business impact: data analysis and preparation, building and deploying predictive models, and clear, decision-ready visualizations. Strengths: pattern discovery in large datasets, machine learning, forecasting, and visualization; creative, case-specific solutions. Metrics- and outcomes-driven.
 
-<div align="center">
-  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://t.me/tehnomaniak07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
+* 🖥️  See my portfolio at [Project](http://github.com/SergSAS)
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  Обо мне</h3>
-
-###
-
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила Frontend разработка! С мая 2022 года по апрель 2023 я изучал Frontend разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br>- ⚡ Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.</p>
-
-###
-<h3 align="left">📕 Мои статьи</h3>
-
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
-- [Пишем Telegram-бота для фильтрации нецензурной лексики в чате](https://proglib.io/p/pishem-telegram-bota-dlya-filtracii-necenzurnoy-leksiki-v-chate-2024-07-15)
-
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" alt="Sketch" title="Sketch" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
 </p>
 
-###
+### Socials
 
-<h3 align="left">🛠 Технологии:</h3>
+<p align="left"> <a href="https://www.github.com/SergSAS" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<a href="https://www.github.com/SergSAS" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/SergSAS?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Badges
 
-###
+<b>My GitHub Stats</b>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-</div>
+<a href="http://www.github.com/SergSAS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SergSAS&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-###
-
-<h3 align="left">🔥   Моя статистика :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
-
-
-## Hi there 👋
-
-<!--
-**SergSAS/SergSAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/SergSAS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergSAS&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
